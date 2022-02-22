@@ -1,0 +1,7 @@
+setChartLibrary('google-chart');
+setChartTitle('Plant Monitoring System with IOT');
+setChartType('areaGraph');
+setAxisName('time_stamp','light');
+setAnimation(true);
+setCrosshair(true);
+plotChart('time_stamp','light');

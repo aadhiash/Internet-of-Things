@@ -10,7 +10,7 @@
 char auth[] = BLYNK_AUTH_TOKEN;
 
 char ssid[] = "Redmi";  // type your wifi name
-char pass[] = "qwerty098";  // type your wifi password
+char pass[] = "pass";  // type your wifi password
 
 #define DHTPIN 2          // Mention the digital pin where you connected 
 #define DHTTYPE DHT11     // DHT 11  
